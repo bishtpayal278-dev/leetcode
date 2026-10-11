@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/bishtpayal278-dev/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/bishtpayal278-dev/leetcode/tree/master/0136-single-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bishtpayal278-dev/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/bishtpayal278-dev/leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bishtpayal278-dev/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bishtpayal278-dev/leetcode/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/bishtpayal278-dev/leetcode/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
