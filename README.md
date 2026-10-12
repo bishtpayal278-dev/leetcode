@@ -14,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bishtpayal278-dev/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/bishtpayal278-dev/leetcode/tree/master/0136-single-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bishtpayal278-dev/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/bishtpayal278-dev/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bishtpayal278-dev/leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bishtpayal278-dev/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bishtpayal278-dev/leetcode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/bishtpayal278-dev/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bishtpayal278-dev/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/bishtpayal278-dev/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/bishtpayal278-dev/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/bishtpayal278-dev/leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/bishtpayal278-dev/leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/bishtpayal278-dev/leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bishtpayal278-dev/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bishtpayal278-dev/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/bishtpayal278-dev/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bishtpayal278-dev/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Newton's Method
 |  |
@@ -53,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/bishtpayal278-dev/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/bishtpayal278-dev/leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -64,5 +69,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/bishtpayal278-dev/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bishtpayal278-dev/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
