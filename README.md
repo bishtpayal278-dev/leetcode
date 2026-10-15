@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/bishtpayal278-dev/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/bishtpayal278-dev/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/bishtpayal278-dev/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/bishtpayal278-dev/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/bishtpayal278-dev/leetcode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bishtpayal278-dev/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/bishtpayal278-dev/leetcode/tree/master/0268-missing-number) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/bishtpayal278-dev/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/bishtpayal278-dev/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/bishtpayal278-dev/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/bishtpayal278-dev/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/bishtpayal278-dev/leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -92,4 +94,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bishtpayal278-dev/leetcode/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/bishtpayal278-dev/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/bishtpayal278-dev/leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/bishtpayal278-dev/leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/bishtpayal278-dev/leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/bishtpayal278-dev/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
