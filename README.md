@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/bishtpayal278-dev/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/bishtpayal278-dev/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bishtpayal278-dev/leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/bishtpayal278-dev/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bishtpayal278-dev/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/bishtpayal278-dev/leetcode/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/bishtpayal278-dev/leetcode/tree/master/0704-binary-search) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bishtpayal278-dev/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bishtpayal278-dev/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/bishtpayal278-dev/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/bishtpayal278-dev/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bishtpayal278-dev/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/bishtpayal278-dev/leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/bishtpayal278-dev/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/bishtpayal278-dev/leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/bishtpayal278-dev/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bishtpayal278-dev/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bishtpayal278-dev/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bishtpayal278-dev/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/bishtpayal278-dev/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/bishtpayal278-dev/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bishtpayal278-dev/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/bishtpayal278-dev/leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bishtpayal278-dev/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -95,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bishtpayal278-dev/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bishtpayal278-dev/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/bishtpayal278-dev/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/bishtpayal278-dev/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bishtpayal278-dev/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/bishtpayal278-dev/leetcode/tree/master/0414-third-maximum-number) |
 ## Counting
