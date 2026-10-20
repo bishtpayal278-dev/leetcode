@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/bishtpayal278-dev/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/bishtpayal278-dev/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/bishtpayal278-dev/leetcode/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/bishtpayal278-dev/leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/bishtpayal278-dev/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/bishtpayal278-dev/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bishtpayal278-dev/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0633-sum-of-square-numbers](https://github.com/bishtpayal278-dev/leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bishtpayal278-dev/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bishtpayal278-dev/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bishtpayal278-dev/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0633-sum-of-square-numbers](https://github.com/bishtpayal278-dev/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/bishtpayal278-dev/leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bishtpayal278-dev/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bishtpayal278-dev/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
