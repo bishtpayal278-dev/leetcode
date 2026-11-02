@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bishtpayal278-dev/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/bishtpayal278-dev/leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bishtpayal278-dev/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bishtpayal278-dev/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/bishtpayal278-dev/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/bishtpayal278-dev/leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bishtpayal278-dev/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/bishtpayal278-dev/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/bishtpayal278-dev/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/bishtpayal278-dev/leetcode/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bishtpayal278-dev/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/bishtpayal278-dev/leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Two Pointers
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/bishtpayal278-dev/leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bishtpayal278-dev/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/bishtpayal278-dev/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bishtpayal278-dev/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0912-sort-an-array](https://github.com/bishtpayal278-dev/leetcode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bishtpayal278-dev/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bishtpayal278-dev/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
