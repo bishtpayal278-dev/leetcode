@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bishtpayal278-dev/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bishtpayal278-dev/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bishtpayal278-dev/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/bishtpayal278-dev/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bishtpayal278-dev/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bishtpayal278-dev/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bishtpayal278-dev/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bishtpayal278-dev/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/bishtpayal278-dev/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Counting
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/bishtpayal278-dev/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/bishtpayal278-dev/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/bishtpayal278-dev/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/bishtpayal278-dev/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
