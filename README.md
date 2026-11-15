@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/bishtpayal278-dev/leetcode/tree/master/0912-sort-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bishtpayal278-dev/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bishtpayal278-dev/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/bishtpayal278-dev/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1748-sum-of-unique-elements](https://github.com/bishtpayal278-dev/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bishtpayal278-dev/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/bishtpayal278-dev/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bishtpayal278-dev/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bishtpayal278-dev/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/bishtpayal278-dev/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/bishtpayal278-dev/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bishtpayal278-dev/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/bishtpayal278-dev/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/bishtpayal278-dev/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/bishtpayal278-dev/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/bishtpayal278-dev/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Merge Sort
 |  |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/bishtpayal278-dev/leetcode/tree/master/0053-maximum-subarray) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/bishtpayal278-dev/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
