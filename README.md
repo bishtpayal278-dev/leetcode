@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bishtpayal278-dev/leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/bishtpayal278-dev/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bishtpayal278-dev/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bishtpayal278-dev/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/bishtpayal278-dev/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/bishtpayal278-dev/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bishtpayal278-dev/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bishtpayal278-dev/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bishtpayal278-dev/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/bishtpayal278-dev/leetcode/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/bishtpayal278-dev/leetcode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/bishtpayal278-dev/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bishtpayal278-dev/leetcode/tree/master/0088-merge-sorted-array) |
